@@ -1,0 +1,38 @@
+C:\Users\Aula\Desktop\ExamenFinal\SegurosPacificoSA\SegurosPacificoSA\bin\Debug\SegurosPacificoSA.exe.config
+C:\Users\Aula\Desktop\ExamenFinal\SegurosPacificoSA\SegurosPacificoSA\bin\Debug\SegurosPacificoSA.exe
+C:\Users\Aula\Desktop\ExamenFinal\SegurosPacificoSA\SegurosPacificoSA\bin\Debug\SegurosPacificoSA.pdb
+C:\Users\Aula\Desktop\ExamenFinal\SegurosPacificoSA\SegurosPacificoSA\obj\Debug\SegurosPacificoSA.csproj.AssemblyReference.cache
+C:\Users\Aula\Desktop\ExamenFinal\SegurosPacificoSA\SegurosPacificoSA\obj\Debug\SegurosPacificoSA.Properties.Resources.resources
+C:\Users\Aula\Desktop\ExamenFinal\SegurosPacificoSA\SegurosPacificoSA\obj\Debug\SegurosPacificoSA.csproj.GenerateResource.cache
+C:\Users\Aula\Desktop\ExamenFinal\SegurosPacificoSA\SegurosPacificoSA\obj\Debug\SegurosPacificoSA.csproj.CoreCompileInputs.cache
+C:\Users\Aula\Desktop\ExamenFinal\SegurosPacificoSA\SegurosPacificoSA\obj\Debug\SegurosPacificoSA.exe
+C:\Users\Aula\Desktop\ExamenFinal\SegurosPacificoSA\SegurosPacificoSA\obj\Debug\SegurosPacificoSA.pdb
+C:\Users\Aula\Desktop\ExamenFinal\SegurosPacificoSA\SegurosPacificoSA\bin\Debug\BLL.dll
+C:\Users\Aula\Desktop\ExamenFinal\SegurosPacificoSA\SegurosPacificoSA\bin\Debug\DAL.dll
+C:\Users\Aula\Desktop\ExamenFinal\SegurosPacificoSA\SegurosPacificoSA\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Aula\Desktop\ExamenFinal\SegurosPacificoSA\SegurosPacificoSA\bin\Debug\BLL.pdb
+C:\Users\Aula\Desktop\ExamenFinal\SegurosPacificoSA\SegurosPacificoSA\bin\Debug\DAL.pdb
+C:\Users\Aula\Desktop\ExamenFinal\SegurosPacificoSA\SegurosPacificoSA\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Aula\Desktop\ExamenFinal\SegurosPacificoSA\SegurosPacificoSA\obj\Debug\SegurosPacificoSA.FrmBuscarEmpleados.resources
+C:\Users\Aula\Desktop\ExamenFinal\SegurosPacificoSA\SegurosPacificoSA\obj\Debug\SegurosPacificoSA.FrmMantEmpleados.resources
+C:\Users\Aula\Desktop\ExamenFinal\SegurosPacificoSA\SegurosPacificoSA\obj\Debug\SegurosP.8652110B.Up2Date
+C:\Users\Aula\Desktop\ExamenFinal\SegurosPacificoSA\SegurosPacificoSA\obj\Debug\SegurosPacificoSA.FrmPrincipal.resources
+G:\Lenguajes 2024 UCR\ExamenFinal\ExamenFinal\SegurosPacificoSA\SegurosPacificoSA\obj\Debug\SegurosPacificoSA.csproj.AssemblyReference.cache
+G:\Lenguajes 2024 UCR\ExamenFinal\ExamenFinal\SegurosPacificoSA\SegurosPacificoSA\obj\Debug\SegurosPacificoSA.exe
+G:\Lenguajes 2024 UCR\ExamenFinal\ExamenFinal\SegurosPacificoSA\SegurosPacificoSA\obj\Debug\SegurosPacificoSA.pdb
+G:\Lenguajes 2024 UCR\ExamenFinal\ExamenFinal\SegurosPacificoSA\SegurosPacificoSA\bin\Debug\SegurosPacificoSA.exe.config
+G:\Lenguajes 2024 UCR\ExamenFinal\ExamenFinal\SegurosPacificoSA\SegurosPacificoSA\bin\Debug\SegurosPacificoSA.exe
+G:\Lenguajes 2024 UCR\ExamenFinal\ExamenFinal\SegurosPacificoSA\SegurosPacificoSA\bin\Debug\SegurosPacificoSA.pdb
+G:\Lenguajes 2024 UCR\ExamenFinal\ExamenFinal\SegurosPacificoSA\SegurosPacificoSA\bin\Debug\BLL.dll
+G:\Lenguajes 2024 UCR\ExamenFinal\ExamenFinal\SegurosPacificoSA\SegurosPacificoSA\bin\Debug\DAL.dll
+G:\Lenguajes 2024 UCR\ExamenFinal\ExamenFinal\SegurosPacificoSA\SegurosPacificoSA\bin\Debug\System.Configuration.ConfigurationManager.dll
+G:\Lenguajes 2024 UCR\ExamenFinal\ExamenFinal\SegurosPacificoSA\SegurosPacificoSA\bin\Debug\BLL.pdb
+G:\Lenguajes 2024 UCR\ExamenFinal\ExamenFinal\SegurosPacificoSA\SegurosPacificoSA\bin\Debug\DAL.pdb
+G:\Lenguajes 2024 UCR\ExamenFinal\ExamenFinal\SegurosPacificoSA\SegurosPacificoSA\bin\Debug\System.Configuration.ConfigurationManager.xml
+G:\Lenguajes 2024 UCR\ExamenFinal\ExamenFinal\SegurosPacificoSA\SegurosPacificoSA\obj\Debug\SegurosPacificoSA.FrmBuscarEmpleados.resources
+G:\Lenguajes 2024 UCR\ExamenFinal\ExamenFinal\SegurosPacificoSA\SegurosPacificoSA\obj\Debug\SegurosPacificoSA.FrmMantEmpleados.resources
+G:\Lenguajes 2024 UCR\ExamenFinal\ExamenFinal\SegurosPacificoSA\SegurosPacificoSA\obj\Debug\SegurosPacificoSA.FrmPrincipal.resources
+G:\Lenguajes 2024 UCR\ExamenFinal\ExamenFinal\SegurosPacificoSA\SegurosPacificoSA\obj\Debug\SegurosPacificoSA.Properties.Resources.resources
+G:\Lenguajes 2024 UCR\ExamenFinal\ExamenFinal\SegurosPacificoSA\SegurosPacificoSA\obj\Debug\SegurosPacificoSA.csproj.GenerateResource.cache
+G:\Lenguajes 2024 UCR\ExamenFinal\ExamenFinal\SegurosPacificoSA\SegurosPacificoSA\obj\Debug\SegurosPacificoSA.csproj.CoreCompileInputs.cache
+G:\Lenguajes 2024 UCR\ExamenFinal\ExamenFinal\SegurosPacificoSA\SegurosPacificoSA\obj\Debug\SegurosP.8652110B.Up2Date

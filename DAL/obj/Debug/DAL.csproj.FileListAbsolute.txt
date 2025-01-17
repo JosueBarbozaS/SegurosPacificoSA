@@ -1,0 +1,18 @@
+C:\Users\Aula\Desktop\ExamenFinal\SegurosPacificoSA\DAL\bin\Debug\DAL.dll
+C:\Users\Aula\Desktop\ExamenFinal\SegurosPacificoSA\DAL\bin\Debug\DAL.pdb
+C:\Users\Aula\Desktop\ExamenFinal\SegurosPacificoSA\DAL\bin\Debug\BLL.dll
+C:\Users\Aula\Desktop\ExamenFinal\SegurosPacificoSA\DAL\bin\Debug\BLL.pdb
+C:\Users\Aula\Desktop\ExamenFinal\SegurosPacificoSA\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Aula\Desktop\ExamenFinal\SegurosPacificoSA\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Aula\Desktop\ExamenFinal\SegurosPacificoSA\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\Aula\Desktop\ExamenFinal\SegurosPacificoSA\DAL\obj\Debug\DAL.dll
+C:\Users\Aula\Desktop\ExamenFinal\SegurosPacificoSA\DAL\obj\Debug\DAL.pdb
+G:\Lenguajes 2024 UCR\ExamenFinal\ExamenFinal\SegurosPacificoSA\DAL\bin\Debug\DAL.dll
+G:\Lenguajes 2024 UCR\ExamenFinal\ExamenFinal\SegurosPacificoSA\DAL\bin\Debug\DAL.pdb
+G:\Lenguajes 2024 UCR\ExamenFinal\ExamenFinal\SegurosPacificoSA\DAL\bin\Debug\BLL.dll
+G:\Lenguajes 2024 UCR\ExamenFinal\ExamenFinal\SegurosPacificoSA\DAL\bin\Debug\BLL.pdb
+G:\Lenguajes 2024 UCR\ExamenFinal\ExamenFinal\SegurosPacificoSA\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+G:\Lenguajes 2024 UCR\ExamenFinal\ExamenFinal\SegurosPacificoSA\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+G:\Lenguajes 2024 UCR\ExamenFinal\ExamenFinal\SegurosPacificoSA\DAL\obj\Debug\DAL.csproj.Up2Date
+G:\Lenguajes 2024 UCR\ExamenFinal\ExamenFinal\SegurosPacificoSA\DAL\obj\Debug\DAL.dll
+G:\Lenguajes 2024 UCR\ExamenFinal\ExamenFinal\SegurosPacificoSA\DAL\obj\Debug\DAL.pdb
